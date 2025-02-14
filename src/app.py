@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 # Sample in-memory storage
 books = [
-    {"id": 1, "title": "Book One", "author": "Author One"},
+    {"id": 1, "title": "Book One", "author": "kshitij"},
     {"id": 2, "title": "Book Two", "author": "Author Two"}
 ]
 
